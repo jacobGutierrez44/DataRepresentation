@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "C C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "c"
+		}
+	}
+}
